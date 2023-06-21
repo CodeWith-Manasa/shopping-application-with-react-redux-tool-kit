@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopping-application-with-react-redux-tool-kit/static/css/main.976f55db.css",
+    "main.js": "/shopping-application-with-react-redux-tool-kit/static/js/main.b89d04c2.js",
+    "static/js/787.61eee022.chunk.js": "/shopping-application-with-react-redux-tool-kit/static/js/787.61eee022.chunk.js",
+    "static/media/logo.svg": "/shopping-application-with-react-redux-tool-kit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shopping-application-with-react-redux-tool-kit/index.html",
+    "main.976f55db.css.map": "/shopping-application-with-react-redux-tool-kit/static/css/main.976f55db.css.map",
+    "main.b89d04c2.js.map": "/shopping-application-with-react-redux-tool-kit/static/js/main.b89d04c2.js.map",
+    "787.61eee022.chunk.js.map": "/shopping-application-with-react-redux-tool-kit/static/js/787.61eee022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976f55db.css",
+    "static/js/main.b89d04c2.js"
+  ]
+}
